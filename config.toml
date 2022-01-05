@@ -21,7 +21,10 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 profilePicture = "images/twitter-profile-picture.jpg"
 author = "Ryan Tenorio"
-description = "Welcome to My Online Home Base"
+description = """
+Welcome to my online home base!
+Explore and feel free to connect with my socials below.
+"""
 title = "Ryan Tenorio"
 displayMode = "dark"
 
