@@ -18,6 +18,28 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
+[params]
+profilePicture = "images/twitter-profile-picture.jpg"
+author = "Ryan Tenorio"
+description = "Welcome to My Online Home Base"
+title = "Ryan Tenorio"
+displayMode = "dark"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/stefan-ryan-tenorio/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter-square"
+title = "Twitter"
+url = "https://www.twitter.com/leeto"
+
+[[params.socialIcons]]
+icon = "fab fa-twitch"
+title = "Twitch"
+url = "https://www.twitch.tv/imleeto"
+
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
